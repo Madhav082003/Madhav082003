@@ -19,8 +19,6 @@
 <a href="https://leetcode.com/u/Madhav_Narayan03/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Madhav__Narayan03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Madhav082003&label=Profile+Views&color=00b4d8&style=for-the-badge" />
 
 </div>
 
@@ -28,19 +26,15 @@
 
 ## 🧠 About Me
 
-```python
-class MadhavNarayan:
-    name       = "Madhav Narayan"
-    role       = "AI/ML Engineer | Final Year @ JIIT Noida (ECE, 2026)"
-    cgpa       = 8.5
-    current    = "Building Clinyx.AI — Agentic Clinical AI @ Medtek.AI"
-    stack      = ["Python", "FastAPI", "React.js", "Node.js", "LLMs", "NLP"]
-    interests  = ["LLM Workflows", "NLP", "Deep Learning", "Full-Stack AI"]
-    open_to    = "Full-time roles in AI/ML Engineering & Data Science"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together 🤖")
-```
+> 🎓 Final Year B.Tech ECE student at **JIIT Noida** (2022–2026) | CGPA: **8.5**
+>
+> 🤖 Currently building **Clinyx.AI** — an Agentic AI clinical data automation platform at **Medtek.AI**
+>
+> 🔬 Passionate about **LLM Workflows**, **NLP**, **Deep Learning**, and **Full-Stack AI Applications**
+>
+> 🚀 Open to **full-time roles** in AI/ML Engineering & Data Science
+>
+> 📬 Reach me at **madhavnarayan37@gmail.com**
 
 ---
 
@@ -100,7 +94,7 @@ class MadhavNarayan:
     <td width="50%" valign="top">
       <h3>🌐 NGO & School Websites — Freelance</h3>
       <p><em>Real-World Web Development</em></p>
-      <p>Designed and deployed production websites for NGOs and schools. Mobile-responsive, accessible, clean UI built with modern web standards.</p>
+      <p>Designed and deployed production websites for NGOs and schools. Mobile-responsive, accessible, clean UI.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -152,23 +146,6 @@ class MadhavNarayan:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Madhav082003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav082003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Madhav082003&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav082003&theme=react-dark&bg_color=0d1117&color=00b4d8&line=0a84ff&point=ffffff&hide_border=true" />
 </div>
 
 ---
