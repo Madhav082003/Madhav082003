@@ -3,18 +3,16 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/madhav-narayan" target="_blank">
+  <a href="https://www.linkedin.com/in/madhav08/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:madhavnarayan37@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Madhav082003" target="_blank">
+  <a href="https://leetcode.com/u/Madhav_Narayan03/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/Madhav082003" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
